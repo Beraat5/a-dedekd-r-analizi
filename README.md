@@ -1,0 +1,1 @@
+# a-dedekd-r-analizi
