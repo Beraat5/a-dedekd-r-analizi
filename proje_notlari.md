@@ -1,26 +1,3 @@
-# a-dedekd-r-analizi
-# Ağ Güvenliği Dedektör Analizi
-
-## Proje Hakkında
-
-Bu projede Wireshark, Python ve Nmap araçlarını kullanarak bir packet sniffer geliştiriyoruz. Geliştirdiğimiz araç, ağdaki trafiği izleyip şüpheli hareketleri tespit edecek. Tespit edilen veriler loglanarak raporlanacak.
-
-## Kullanılan Teknolojiler
-
-- Python  
-- Wireshark  
-- Nmap  
-- Kali Linux  
-
-## Amaç
-
-Ağ üzerindeki güvenlik açıklarını ve anormal trafik davranışlarını tespit etmek, böylece ağ güvenliğini artırmak.
-
----
-
-## Gemini Deep Research Prompt
-
-**Görev:** 2025 yılı için ağ güvenliği analizinde ve şüpheli trafik tespitinde ön plana çıkan 10 güncel teknik veya trendi bul.
 # Ağ Güvenliği Dedektör Analizi
 
 ## Proje Hakkında
